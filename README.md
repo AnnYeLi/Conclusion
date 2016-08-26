@@ -2,7 +2,7 @@
 ## hello
 
 [说明文字](#jump)
-
+[测试](/test.txt)
 
 hello
 

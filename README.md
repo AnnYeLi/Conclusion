@@ -1,7 +1,7 @@
 # Conclusion
 ## hello
 
-*［你好］(你好)
+* [你好](你好)
 
 hello
 

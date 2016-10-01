@@ -6,5 +6,3 @@
 [java集合](/The_Interview_Questions/java_collection.html)      
 
 [java线程](/The_Interview_Questions/java_thread.html)    
-
-##sssss 
